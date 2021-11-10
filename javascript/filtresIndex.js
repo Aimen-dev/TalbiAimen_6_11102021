@@ -3,7 +3,7 @@
  * Fonctionnement du tri :
  * 
  * 1 - L'utilisateur clique sur un bouton filtrant
- * 2 - Quand le bouton est cliqué, il lance la fonction showResultat.
+ * 2 - Quand le bouton est cliqué, il lance la fonction showAllPhotographer.
  * 3 - La fonction commence par une boucle qui va parcourir tous les tags des photographe
  * 4 - Chaque resultat égal à la valeur du filtre est rangé dans un nouvel Array
  * 5 - On utilise une méthode map() pour créer un nouvel Array 
